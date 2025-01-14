@@ -9,7 +9,7 @@
 
 Neste projeto apresento um Podcast sobre: Introdução ao Python, que foi totalmente criado por IA utilizando prompts com mais detalhes e regras.
 
-
+## Veja aqui: (https://youtu.be/TM6k61jXZ80)
 
 ## 💻 Tecnologias utilizadas no projeto
 
