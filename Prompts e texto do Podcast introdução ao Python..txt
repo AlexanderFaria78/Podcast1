@@ -1,0 +1,97 @@
+Podcast introdução ao Python.
+
+Todos os prompts utilizados neste projeto:
+
+
+1 - Crie 5 possíveis títulos com subtítulos para um podcast sobre Introdução a linguagem de programação Python, voltado para desenvolvedores iniciantes.
+
+{REGRAS}
+
+>Texto claro e objetivo.
+>Não utilize muitas palavras em inglês.
+>Título e subtítulo que cause impacto e curiosidade.
+
+
+2- Atue com desenvolvedor web senior e crie um roteiro de podcast sobre Introdução a linguagem de programação Python, voltado para desenvolvedores iniciantes, cujo título é: Iniciando com Python "Um guia simples e prático para você começar a programar do zero".
+
+
+{REGRAS}
+
+>Comece com uma saudação dizendo: Olá! Aqui Alexander e bem vindo ao nosso encontro semanal.
+>Texto claro, leve e objetivo.
+>Não utilize muitas palavras em inglês.
+>Não pode exceder 4500 caracteres.
+>Não pode passar de 5 minutos de duração.
+>Não coloque códigos no texto.
+
+
+3 - Crie 5 prompt de comando diferentes para geração de imagem que será usada em um Podcast sobre desenvolvimento web.
+
+{REGRAS}
+
+> idioma Inglês.
+> somente imagem sem textos.
+
+return:
+
+"A sleek and modern illustration of a web developer working on a laptop, surrounded by glowing digital elements like code snippets, a browser window, and a server icon. Vibrant colors and a professional, tech-oriented vibe."
+
+"A creative digital art of a computer screen displaying a website being coded, with floating HTML, CSS, and JavaScript icons around. Minimalist and futuristic with a clean workspace in the background."
+
+
+"An artistic representation of a development process, featuring gears, cloud servers, and connected nodes symbolizing the internet, all blending into a glowing circuit board design."
+
+"A vibrant and dynamic scene of a person designing a website on a tablet, with UI/UX elements floating in the air, surrounded by abstract shapes and colors representing creativity and innovation."
+
+"A conceptual image of a web development ecosystem, featuring interconnected symbols like a globe, coding tags, and responsive design layouts, all rendered in a colorful and modern digital style."
+
+
+"A creative digital art of a computer screen displaying a website being coded, with Python icons around. Minimalist and futuristic with a clean workspace in the background."
+
+
+
+Roteiro de Podcast: Iniciando com Python
+
+Subtítulo: Um guia simples e prático para você começar a programar do zero.
+
+
+
+Olá! Aqui é Alexander, e bem-vindo ao nosso encontro semanal!
+Hoje, vamos falar sobre algo que tem transformado o mundo da tecnologia: a linguagem de programação Python.
+Se você nunca programou ou está dando os primeiros passos na área, fique comigo, porque este episódio foi feito para você. Vamos explorar o que é Python, por que ele é tão popular e como você pode começar a usá-lo no seu dia a dia.
+
+O que é Python? 
+Python é uma linguagem de programação criada para ser simples, fácil de aprender e poderosa.
+Ela é usada em várias áreas, como desenvolvimento web, análise de dados, inteligência artificial e até automação de tarefas do dia a dia.
+Mas o que realmente faz o Python se destacar?
+Primeiro, sua sintaxe é muito parecida com o inglês, o que facilita a leitura e a escrita do código.
+Segundo, ela tem uma enorme comunidade de desenvolvedores, o que significa que você encontrará muitos materiais de apoio e ajuda sempre que precisar.
+
+Por que aprender Python?
+Existem muitas razões para aprender Python, mas aqui estão algumas das mais importantes:
+
+Facilidade: É uma das linguagens mais amigáveis para quem está começando.
+Versatilidade: Você pode usar Python em diferentes tipos de projetos, desde aplicativos simples até sistemas complexos.
+Alta demanda no mercado: Saber Python pode abrir muitas portas no mercado de trabalho, já que ele é amplamente usado por empresas de tecnologia.
+Comunidade ativa: Você nunca estará sozinho. Existem fóruns, cursos, grupos e muita gente pronta para ajudar.
+
+Como começar com Python? 
+Agora que você sabe o que é Python e por que vale a pena aprendê-lo, como começar?
+Primeiro, você precisa instalar o Python no seu computador. No site oficial da linguagem, você encontra uma versão gratuita e fácil de instalar.
+Depois, escolha uma ferramenta para escrever seus códigos. Pode ser um editor de texto simples ou um ambiente integrado de desenvolvimento, que chamamos de IDE. Se você é iniciante, recomendo começar com ferramentas mais básicas.
+Uma vez que tudo estiver configurado, você pode começar com algo simples, como exibir mensagens na tela. Não se preocupe em entender tudo de uma vez; a prática é o segredo para aprender.
+
+Agora, um ponto importante: pratique regularmente. Crie pequenos projetos, como uma calculadora, um gerador de senhas ou até mesmo um jogo básico. Esses exercícios ajudam a consolidar o que você está aprendendo e tornam o processo mais divertido.
+
+Dicas para aprender Python 
+Aqui vão algumas dicas rápidas para quem está começando:
+
+Comece pelo básico. Não tente aprender tudo de uma vez.
+Siga tutoriais e faça cursos introdutórios. Eles ajudam a dar os primeiros passos.
+Pratique todos os dias, mesmo que seja por apenas 15 minutos.
+Não tenha medo de errar. Os erros fazem parte do aprendizado.
+Participe de comunidades online. Isso ajuda a trocar ideias e aprender com outros desenvolvedores.
+
+E é isso por hoje! Espero que este episódio tenha inspirado você a dar os primeiros passos na programação com Python.
+Se você gostou, compartilhe com seus amigos que também estão começando na área. Na próxima semana, vamos explorar um novo tema para continuar sua jornada na programação.
+Até lá, bons estudos e um grande abraço!
