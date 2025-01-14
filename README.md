@@ -1,8 +1,15 @@
-![Capa](images/Podcastimage.png)
+<p align="center">
+<img 
+    src="Podcast image.png"
+    width="300"
+/>
+</p>
+
 # Projeto Podcast Gerado por I.A.s
 
+Neste projeto apresento um Podcast sobre: Introdução ao Python, que foi totalmente criado por IA utilizando prompts com mais detalhes e regras.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
