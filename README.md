@@ -1,4 +1,4 @@
-![Capa](images/nome-da-imagem.png)
+![Capa](images/Podcastimage.png)
 # Projeto Podcast Gerado por I.A.s
 
 
